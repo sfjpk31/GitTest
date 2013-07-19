@@ -3,3 +3,4 @@ It has been modified
 Modified again after staging
 Modified once again
 ...and again
+Test staging and committing in one command with "git commit -a"
