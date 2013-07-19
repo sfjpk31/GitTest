@@ -1,1 +1,4 @@
 This is the second file
+It has been modified
+Modified again after staging
+Modified once again
