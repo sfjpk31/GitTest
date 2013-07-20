@@ -5,4 +5,4 @@ Modified once again
 ...and again
 Test staging and committing in one command with "git commit -a"
 Test amend
-Test forgotten file
+Test forgotten file again
