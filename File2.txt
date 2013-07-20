@@ -6,3 +6,4 @@ Modified once again
 Test staging and committing in one command with "git commit -a"
 Test amend
 Test forgotten file again
+Test unstaging
