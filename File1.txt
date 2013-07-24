@@ -5,3 +5,4 @@ Change to File 1 as part of same commit
 Changed File 1 as part of Branch Two
 Change File 1 and commit individually to Branch Two
 Non squash on File 1
+Change File 1 in Branch One

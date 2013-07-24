@@ -11,3 +11,6 @@ Test unstaging
 Changed File 2 as part of Branch Two
 Change File 2 and commit individually to Branch Two
 Unsquashed change to File 2
+\Change to File 2 as part of same commit
+Change File 2 in Branch One
+
