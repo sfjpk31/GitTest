@@ -8,3 +8,4 @@ Test amend
 Test forgotten file again
 Test unstaging
 \Change to File 2 as part of same commit
+Change File 2 in Branch One
